@@ -28,11 +28,12 @@ And finally get a dataframe with 2016 rows × 3 columns, readu to be visual.
 
 ### Visualization and conclusions
 
-[TOP3](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country.jpg)
-[TOP3_year](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country_years.jpg)
-[TOP3_ spc](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country_species.jpg)
+![TOP3](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country.jpg)
+![TOP3_year](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country_years.jpg)
+![TOP3_ spc](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country_species.jpg)
 
 So after observing this graphs we can conclude that there are one common specie that is the most dangerous in our TOP3 countries. The White Shark.
+
 **If you want further information of muy project, please visit it!**
 
 ### Aditional information
