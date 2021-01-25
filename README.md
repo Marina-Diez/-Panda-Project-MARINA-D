@@ -28,9 +28,14 @@ And finally get a dataframe with 2016 rows × 3 columns, readu to be visual.
 
 ### Visualization and conclusions
 
-![TOP3](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country.jpg)
-![TOP3_year](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country_years.jpg)
-![TOP3_ spc](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country_species.jpg)
+As we can see in the following graph, USA, AUSTRALIA AND SOUTH AFRICA, are the TOP3 counties.
+![TOP3](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country.jpg | width=100)
+
+Specially in USA the number of attacks have increase in the last years.
+![TOP3_year](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country_years.jpg | width=100)
+
+And in all 3 countries the most dangerous specie is the White Shark.
+![TOP3_ spc](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country_species.jpg | width=100)
 
 So after observing this graphs we can conclude that there are one common specie that is the most dangerous in our TOP3 countries. The White Shark.
 
