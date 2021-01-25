@@ -14,24 +14,24 @@ The aim of this project is to understand the dataset that have being given tu us
 ### Exproring data
 The initial analysis starts from a very dirty Dataframe, with a shape (25723, 24), in which each of its columns contains at least 66% null data.
 >- The variable countries seems interesting, it is not one of the most null and can provide interesting information, it will be the starting point. 
->- In addition, another interesting information is that al first all the variables looks like they are categorical, so we will have to base ourselves on the relationship between them without being able to delve into their correlations.
+>- In addition, another interesting information is the different types of species and how they affect in different countries.
 
 ### Hypothesis
 TOP3 shark attack countries in the past 40 years. Which are them and which species predominates?
 
 ### Cleaning and analyzing
 I have follow 3 steps in order to clean and found the important imformation:
->-  1. Look for the TOP 3 Countries with more cases
->-  2. Look for our new and cleaner dataframe, focus on attacks by countries and years.
->-  3. Cross my information by continent whith the species of sharks.
-And finally get a dataframe with 2016 rows × 3 columns, readu to be visual.
+>1. Look for the TOP 3 Countries with more cases
+>2. Look for our new and cleaner dataframe, focus on attacks by countries and years.
+>3. Cross my information by continent whith the species of sharks.
+And finally get a dataframe with 2016 rows × 3 columns, ready to be visual.
 
 ### Visualization and conclusions
 
-As we can see in the following graph, USA, AUSTRALIA AND SOUTH AFRICA, are the TOP3 counties.
+As we can see in the following graph, USA, AUSTRALIA AND SOUTH AFRICA, are the TOP3 countries.
 ![TOP3](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country.jpg)
 
-Specially in USA the number of attacks have increase in the last years.
+Specially in USA the number of attacks have increased in the last years.
 ![TOP3_year](https://github.com/Marina-Diez/Panda-Project-MARINA-D/blob/master/output/top_country_years.jpg)
 
 And in all 3 countries the most dangerous specie is the White Shark.
